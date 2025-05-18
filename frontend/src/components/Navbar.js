@@ -32,8 +32,9 @@ const Navbar = () => {
         <div className="flex justify-between h-20">
           <div className="flex items-center">
             <Link to="/" className="flex items-center">
+              {/* Use your actual logo here */}
               <img 
-                src="https://media.istockphoto.com/id/183260287/photo/a-orange-stethoscope-on-a-white-background.webp?b=1&s=612x612&w=0&k=20&c=e6kKh0tOeysKqqjSQJx1wK5ZwXo1TajUCNLliJEwSOU=" 
+                src="/your-logo.png" 
                 alt="YANA Logo" 
                 className="h-12 w-auto mr-2" 
               />
