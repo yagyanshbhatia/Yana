@@ -10,8 +10,9 @@ const Footer = () => {
           {/* Logo and About */}
           <div className="col-span-1 md:col-span-1">
             <Link to="/" className="flex items-center mb-4">
+              {/* Use your actual logo here */}
               <img 
-                src="https://media.istockphoto.com/id/183260287/photo/a-orange-stethoscope-on-a-white-background.webp?b=1&s=612x612&w=0&k=20&c=e6kKh0tOeysKqqjSQJx1wK5ZwXo1TajUCNLliJEwSOU=" 
+                src="/your-logo.png" 
                 alt="YANA Logo" 
                 className="h-12 w-auto mr-2" 
               />
